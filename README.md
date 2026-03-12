@@ -157,5 +157,3 @@ License
 This repository is part of the System Of All ecosystem. See the LICENSE file for details.
 
 ---
-
-If you want, I can also produce a **fully reformatted version**, a **minimal plain-text version**, or a **Markdown-optimized version for GitHub**.
