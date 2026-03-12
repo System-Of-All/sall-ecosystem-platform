@@ -145,13 +145,16 @@ The platform is currently in active development and expansion. Core functionalit
 • collaborative systems  
 • scientific integrations  
 • ecosystem participation tools  
+
 ---  
 Vision  
 The long-term vision of the SALL Ecosystem Platform is to create a global coordination environment where knowledge, institutions, and individuals collaborate to address complex challenges and advance technological and societal progress.  
-The platform represents a step toward a structured digital environment for cooperative innovation.  
+The platform represents a step toward a structured digital environment for cooperative innovation. 
+
 ---  
 Website  
 https://sallecosystem.com  
+
 ---  
 License  
 This repository is part of the System Of All ecosystem. See the LICENSE file for details.
