@@ -12,7 +12,7 @@ The platform integrates:
 • decentralized infrastructure support  
 • interactive universe-based navigation  
 
-The system functions as a global coordination layer designed to connect expertise, knowledge, and resources across sectors.  
+The system functions as a global coordination agenda designed to connect expertise, knowledge, and resources across sectors.  
 The platform operates under the principles defined by The One Law and the System Of All ecosystem architecture.  
 ---  
 Core Purpose  
